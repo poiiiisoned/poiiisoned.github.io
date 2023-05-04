@@ -1,0 +1,20 @@
+body {
+    min-height: 3000px;
+}
+.jumbotron{
+    padding-top: 20px;
+    background-color: #348051 ;
+    text-align: center;
+}
+#About {
+    padding-top: 100px;
+}
+
+#Gallery{
+    padding-top: 100px;
+    background-color: #348051 ;    
+}
+
+#Contact{
+    padding-top: 100px;
+}
